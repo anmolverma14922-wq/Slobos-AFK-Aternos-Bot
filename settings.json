@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "AnmolCore56.aternos.me",
-    "port": 15186,
+    "ip": "tokensmp01.aternos.me",
+    "port": 59464,
     "version": "",
     "try-creative": false
   },
